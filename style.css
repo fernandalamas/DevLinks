@@ -107,11 +107,17 @@ ul li a:hover {
   /* aqui teve um pensamento de gráfico y, x e z pra pensar o alinhamento, mas não entendi muito bem */
   top: 50%;
   transform: translateY(-50%);
+  animation: slide-out 0.2s;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  /* right: 0;
+  left: initial; usado para posição antes da animação */
+  animation: slide-in 0.2s forwards;
+}
+
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch span {
@@ -153,5 +159,24 @@ ul li a:hover {
   }
   .light {
     --bg-url: url(../assets/bg-desktop-light.png);
+  }
+}
+
+/* animation */
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes slide-out {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
   }
 }
