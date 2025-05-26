@@ -152,6 +152,12 @@ ul li a:hover {
   padding: 16px;
 }
 
+footer {
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 12px;
+}
+
 /*  media queries */
 @media (min-width: 700px) {
   :root {
