@@ -1,35 +1,41 @@
-<h1 align="center"> DevLinks </h1>
+# 📱 DevLinks
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+A responsive personal link aggregator to showcase your social profiles — built with HTML, CSS, and JavaScript during Rocketseat’s free web development program.
 
-<br>
+## 🖼️ Preview
 
-![image](https://github.com/user-attachments/assets/bedf6a6b-928e-4ecb-815c-b6cfbae72b9f)
+👉 [Click here to view the live project](https://fernandalamas.github.io/DevLinks/)
+![DevLinks Preview](https://github.com/user-attachments/assets/bedf6a6b-928e-4ecb-815c-b6cfbae72b9f)
 
-## 🚀 Tecnologias
+## 🚀 Technologies Used
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Git & GitHub**
+- **Figma** (for layout design)
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+## 🎯 Project Purpose
 
-## 💻 Projeto
+DevLinks is a simple and clean online business card — a central hub for sharing your main social media and contact links.
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+## 📐 Layout
 
-- [Acesse o projeto finalizado, online](https://fernandalamas.github.io/DevLinks/)
+You can view the original design on [Figma (public link)](https://www.figma.com/community/file/1187422022288947321)
 
-## 🔖 Layout
+## 💡 Key Learnings
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- Building interactive components with vanilla JavaScript.
+- Applying mobile-first and responsive layout techniques.
+- Hosting static projects with GitHub Pages.
 
-## :memo: Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT.
+This project is under the [MIT License](./LICENSE).
 
----
+## 🙋‍♀️ Author
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Built by **Fernanda Lamas**, during the [Rocketseat](https://www.rocketseat.com.br/) Explorer track.
+
+> 💼 Open to junior web development opportunities.  
+> 📫 Contact: fernandasl890@gmail.com 
